@@ -1,6 +1,8 @@
 BUDDY
 -----
 
+혈당관리, 이제 BUDDY로 쉽게 하세요!
+
 ## 프로젝트 진행 배경
 
 <img src="./img/pic3.png">
